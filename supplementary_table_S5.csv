@@ -1,6 +1,0 @@
-Season,Cumulative_n_train,Next_season_r,Block_ID,Block_hash_12,Chain_status
-0,600,0.6649,B0 (rrBLUP-v0),2b1098aec7f3,VALID
-1,670,0.6597,B1 (rrBLUP-v1),41145bd5311f,VALID
-2,740,0.6554,B2 (rrBLUP-v2),391900054bcf,VALID
-3,820,0.6559,B3 (rrBLUP-v3),0edf5a26ec67,VALID
---- (attack) ---,,0.9999 (forged),B1 modified,not recomputed (hash unchanged),Tampered at block 1
