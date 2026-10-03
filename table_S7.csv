@@ -1,0 +1,5 @@
+Season,Cumulative_n_train,E4_holdout_r,Block_ID,Block_hash_12,Chain_status
+0,1198,0.1141,B0 (rrBLUP-real-v0),dac9d6b7b797,VALID
+1,1310,0.1181,B1 (rrBLUP-real-v1),0273e85ef08a,VALID
+2,1422,0.1404,B2 (rrBLUP-real-v2),0b2e7936ad49,VALID
+3,1647,0.165,B3 (rrBLUP-real-v3),b035ea093d31,VALID
